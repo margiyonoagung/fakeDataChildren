@@ -1,0 +1,172 @@
+{
+  "children": [
+    {
+      "name": "Anak1",
+      "age": 8,
+      "gender": "Laki-laki",
+      "hobbies": ["Bermain sepak bola", "Membaca buku"]
+    },
+    {
+      "name": "Anak2",
+      "age": 6,
+      "gender": "Perempuan",
+      "hobbies": ["Bermain boneka", "Mewarnai"]
+    },
+    {
+      "name": "Anak3",
+      "age": 10,
+      "gender": "Laki-laki",
+      "hobbies": ["Bermain video game", "Bersepeda"]
+    },
+    {
+      "name": "Anak4",
+      "age": 7,
+      "gender": "Perempuan",
+      "hobbies": ["Bermain mobil-mobilan", "Menari"]
+    },
+    {
+      "name": "Anak5",
+      "age": 9,
+      "gender": "Laki-laki",
+      "hobbies": ["Bermain petak umpet", "Membuat pesawat kertas"]
+    },
+    {
+      "name": "Anak6",
+      "age": 5,
+      "gender": "Perempuan",
+      "hobbies": ["Bermain peran", "Mewarnai"]
+    },
+    {
+      "name": "Anak7",
+      "age": 8,
+      "gender": "Laki-laki",
+      "hobbies": ["Bermain bola basket", "Mendengarkan musik"]
+    },
+    {
+      "name": "Anak8",
+      "age": 6,
+      "gender": "Perempuan",
+      "hobbies": ["Bermain teka-teki", "Bersepeda"]
+    },
+    {
+      "name": "Anak9",
+      "age": 10,
+      "gender": "Laki-laki",
+      "hobbies": ["Bermain komputer", "Bermain anggar"]
+    },
+    {
+      "name": "Anak10",
+      "age": 7,
+      "gender": "Perempuan",
+      "hobbies": ["Bermain lompat tali", "Menggambar"]
+    },
+    {
+      "name": "Anak11",
+      "age": 9,
+      "gender": "Laki-laki",
+      "hobbies": ["Bermain voli", "Membuat kerajinan tangan"]
+    },
+    {
+      "name": "Anak12",
+      "age": 5,
+      "gender": "Perempuan",
+      "hobbies": ["Bermain petak umpet", "Menyanyi"]
+    },
+    {
+      "name": "Anak13",
+      "age": 8,
+      "gender": "Laki-laki",
+      "hobbies": ["Bermain sepak bola", "Membuat lego"]
+    },
+    {
+      "name": "Anak14",
+      "age": 6,
+      "gender": "Perempuan",
+      "hobbies": ["Bermain boneka", "Bersepeda"]
+    },
+    {
+      "name": "Anak15",
+      "age": 10,
+      "gender": "Laki-laki",
+      "hobbies": ["Bermain video game", "Membaca buku"]
+    },
+    {
+      "name": "Anak16",
+      "age": 7,
+      "gender": "Perempuan",
+      "hobbies": ["Bermain mobil-mobilan", "Menggambar"]
+    },
+    {
+      "name": "Anak17",
+      "age": 9,
+      "gender": "Laki-laki",
+      "hobbies": ["Bermain layang-layang", "Membuat pesawat kertas"]
+    },
+    {
+      "name": "Anak18",
+      "age": 5,
+      "gender": "Perempuan",
+      "hobbies": ["Bermain peran", "Menyanyi"]
+    },
+    {
+      "name": "Anak19",
+      "age": 8,
+      "gender": "Laki-laki",
+      "hobbies": ["Bermain bola basket", "Bermain anggar"]
+    },
+    {
+      "name": "Anak20",
+      "age": 6,
+      "gender": "Perempuan",
+      "hobbies": ["Bermain teka-teki", "Membuat kerajinan tangan"]
+    },
+    {
+      "name": "Anak21",
+      "age": 10,
+      "gender": "Laki-laki",
+      "hobbies": ["Bermain komputer", "Mewarnai"]
+    },
+    {
+      "name": "Anak22",
+      "age": 7,
+      "gender": "Perempuan",
+      "hobbies": ["Bermain lompat tali", "Mendengarkan musik"]
+    },
+    {
+      "name": "Anak23",
+      "age": 9,
+      "gender": "Laki-laki",
+      "hobbies": ["Bermain voli", "Bermain lego"]
+    },
+    {
+      "name": "Anak24",
+      "age": 5,
+      "gender": "Perempuan",
+      "hobbies": ["Bermain petak umpet", "Membaca buku"]
+    },
+    {
+      "name": "Anak25",
+      "age": 8,
+      "gender": "Laki-laki",
+      "hobbies": ["Bermain sepak bola", "Bersepeda"]
+    },
+    {
+      "name": "Anak26",
+      "age": 6,
+      "gender": "Perempuan",
+      "hobbies": ["Bermain boneka", "Menyanyi"]
+    },
+    {
+      "name": "Anak27",
+      "age": 10,
+      "gender": "Laki-laki",
+      "hobbies": ["Bermain video game", "Menggambar"]
+    },
+    {
+      "name": "Anak28",
+      "age": 7,
+      "gender": "Perempuan",
+      "hobbies": ["Bermain mobil-mobilan", "Membuat pesawat kertas"]
+    }
+  ]
+}
